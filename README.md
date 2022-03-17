@@ -16,8 +16,8 @@ MobX is a consize and compact alternative to Redux. It is capable do same action
  
 ![Login](login.png)
 ![LoginCorrect](loginCorrect.png)
-![LoginNoServerConnection](loginNoServerConnection.png)
 ![LoginIncorrect](loginIncorrect.png)
+![LoginNoServerConnection](loginNoServerConnection.png)
 ![Transactions](transactions.png)<br/>
       
 <br/> <div style="text-align: center;"><h3>Here's backend server API</h3></div>
